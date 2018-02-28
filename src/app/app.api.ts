@@ -1,0 +1,1 @@
+export const API = "http://ismaias.eadbox.com/api"
